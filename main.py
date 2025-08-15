@@ -196,7 +196,6 @@ def main():
     response = rag.query(question)
     print(f"Response: {response}")
 
-    # Convert to speech
     print("Converting to speech...")
     rag.text_to_speech(response)
 
