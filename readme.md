@@ -1,7 +1,3 @@
-Here’s a **short and clear README** you can drop into your GitHub repo for this project:
-
----
-
 # 📄 PDF Retrieval-Augmented Generation (RAG) System
 
 This project is a **PDF-based RAG pipeline** built with **LangChain, Ollama, ChromaDB, and ElevenLabs**.
